@@ -1,0 +1,6 @@
+*This file contains the information regarding running the code.
+*Our agent still needs to be trained and tested more as it has been trained for less amount of time, so chances of making losses are possible and specially in an environemnt like stock market.
+*We will modify the code regularly for improvements.
+There are certain guidelines for running the code:
+*"timestep" needs to be changed in the Environment whenever you want to reset the environemnt and start a new episode, timestep is the index of the day in the stock data file from which you want to trade.
+*Currently the code is in the testing mode(it won't update the neural network)
